@@ -1,0 +1,6 @@
+{
+  "name": "猫よけ超音波",
+  "description": "野良猫・ネズミ害獣対策のための超音波・高周波発信アプリ。15kHz〜24kHzの周波数設定、ネズミ専用スイープ、猫・ネズミ両対応、モーション判定、タイマー、高周波ビジュアルモニタ搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
